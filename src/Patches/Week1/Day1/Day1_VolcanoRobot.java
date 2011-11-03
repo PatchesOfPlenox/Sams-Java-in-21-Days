@@ -1,4 +1,4 @@
-package Patches.Week1;
+package Patches.Week1.Day1;
 class VolcanoRobot {
 	String status;
 	int speed;

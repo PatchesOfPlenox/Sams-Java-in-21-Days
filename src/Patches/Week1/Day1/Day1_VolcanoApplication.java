@@ -1,4 +1,7 @@
-package Patches.Week1;
+package Patches.Week1.Day1;
+
+import Patches.Week1.Day1.VolcanoRobot;
+
 class VolcanoApplication {
 	public static void main(String[] arguments) {
 		VolcanoRobot dante = new VolcanoRobot();
